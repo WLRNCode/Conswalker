@@ -1,0 +1,6 @@
+﻿  Game.cpp
+E:\Новая папка\Game 0.0.2\Game\Game.cpp(20,15): warning C4244: =: преобразование "long" в "SHORT", возможна потеря данных
+E:\Новая папка\Game 0.0.2\Game\Game.cpp(21,15): warning C4244: =: преобразование "long" в "SHORT", возможна потеря данных
+E:\Новая папка\Game 0.0.2\Game\Game.cpp(296,16): warning C4101: b: неиспользованная локальная переменная
+E:\Новая папка\Game 0.0.2\Game\Game.cpp(296,19): warning C4101: c: неиспользованная локальная переменная
+  Game.vcxproj -> E:\Новая папка\Game 0.0.2\x64\Debug\Game.exe
